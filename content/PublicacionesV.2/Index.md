@@ -1,11 +1,11 @@
 ---
 longform:
   format: scenes
-  title: Primera publi
+  title: PublicacionesV.2
   workflow: Default Workflow
   sceneFolder: /
   scenes:
-    - Yo...
+    - Este viaje va de...
   sceneTemplate: templates/Publicación.md
   ignoredFiles: []
 ---
